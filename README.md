@@ -1,10 +1,6 @@
 ## Screenshots
-
-### First screen
-![First Screen](assets/images/first_screen.png)
-
-### Second screen
-![Second Screen](assets/images/second_screen.png)
-
-### Third screen
-![Third Screen](assets/images/third_screen.png)
+<p float="left">
+  <img src="assets/images/first_screen.png" width="240"/>
+  <img src="assets/images/second_screen.png" width="240"/>
+  <img src="assets/images/third_screen.png" width="240"/>
+</p>
